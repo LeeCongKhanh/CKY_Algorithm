@@ -93,7 +93,7 @@ public class BieuDien_Form extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Mô Phỏng");
+        setTitle("Kết quả phân tích");
 
         pnlHeader.setBackground(new java.awt.Color(0, 153, 153));
 
